@@ -8,8 +8,8 @@ Solves a sudoku based on a given image
 - Add more comments to explain logic and functionality
 - Fix PEP-8 complacancy issues (loads and loads and loads of them)
 - Improve performance
-- Work better with images in which the grid does not solely comprise straight line
-- Better support for images that have a contrasting background, such a table behind the paper
+- Work better with images in which the grid does not solely comprise of straight lines
+- Better support for images that have a contrasting background, such as a table behind the paper
 
 # Requirements to run this software
 - Python 2.7
