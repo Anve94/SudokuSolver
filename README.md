@@ -2,7 +2,11 @@
 Solves a sudoku based on a given image
 
 # To do
+- Add more validation and cleanup validation
 - Cleanup debug messaging stuff
+- Cleanup other parts of code
+- Add more comments to explain logic and functionality
+- Check PEP-8 complacancy
 - Improve performance
 - Work better with images in which the grid does not solely comprise straight line
 - Better support for images that have a contrasting background, such a table behind the paper
