@@ -27,3 +27,8 @@ Run
 $ python main.py
 ```
 
+# Demo/Example
+[Example input](http://i.imgur.com/KWsnQtA.jpg)
+
+[Example output](http://i.imgur.com/uQLvG1R.png)
+
