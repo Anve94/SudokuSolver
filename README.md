@@ -22,7 +22,7 @@ Solves a sudoku based on a given image
 # Execution
 - Save an image of a sudoku (.jpg, .jpeg or .png) in the same directory
 - Change the FILE_NAME variable in settings.py
-Run
+- Run
 ```
 $ python main.py
 ```
