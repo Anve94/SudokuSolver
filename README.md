@@ -18,7 +18,6 @@ Solves a sudoku based on a given image
 - Pytesseract PIP package
 - Native Tesseract OCR Engine locally installed and callable from shell
 - PIL PIP package
-- Some other stuff I cannot remember right now
 
 # Execution
 - Save an image of a sudoku (.jpg, .jpeg or .png) in the same directory
